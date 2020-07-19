@@ -1,0 +1,25 @@
+{
+    "company": [
+        {
+            "name": "Google",
+            "share": 3020,
+            "price": 1250,
+            "balanced": 470000,
+            "time": "2019-03-13T05:36:12.171Z"
+        },
+        {
+            "name": "Amazon",
+            "share": 3020,
+            "price": 1250,
+            "balanced": 420000,
+            "time": "2019-03-13T07:05:22.045Z"
+        },
+        {
+            "name": "Oracle",
+            "share": 3000,
+            "price": 1250,
+            "balanced": 600000,
+            "time": "2019-03-12T13:50:13.556Z"
+        }
+    ]
+}
